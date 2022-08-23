@@ -1,2 +1,7 @@
 # MySQLProject
-Database Management SQL Project
+-- Add description
+
+# What I learned 
+
+*
+*
